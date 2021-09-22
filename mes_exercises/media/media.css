@@ -1,0 +1,62 @@
+#Titre{
+    display: flex;
+    height: 300px;
+    background-color: rgb(26, 26, 121);
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    flex-direction: column;
+}
+#liens{
+    display: flex;
+    height: 25px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.Container{
+    background-color: rgba(235, 228, 228, 0.664);
+    height: 750px;
+    width: auto;
+    display: flex;
+    gap: 10px;
+}
+.Me{
+    background-color: grey;
+    height: 100%;
+    width: 30%;
+    justify-items: center;
+}
+.im1{
+    text-align: center;
+    height: 100px;
+}
+.Art1{
+   height: 200px;
+   width: 800px;
+}
+.im2{    
+    text-align: center;
+    background-color: grey;
+    height: 170px;
+    width: auto;
+}
+.im3{
+    background-color: grey;
+    text-align: center;
+    height: 225px;
+    width: auto;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: grey;
+    height: 100px;
+    width: 100%;
+}
